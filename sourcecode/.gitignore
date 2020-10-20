@@ -8,6 +8,17 @@ Basic_Kernels/init
 Basic_Kernels/long_run_test
 Basic_Kernels/long_run_test_log
 Basic_Kernels/test
+Basic_Kernels/config_profiling.h
+Basic_Kernels/sweep_config.h
+Basic_Kernels/perf_counters.txt
+Basic_Kernels/start.txt
+Basic_Kernels/stop.txt
+Basic_Kernels/plots
+Basic_Kernels/measurements
+Basic_Kernels/scripts/reports
+pulp-runtime-examples
+pulp-rt-examples
+rt-tests/
 latex
 html
 
